@@ -1693,7 +1693,7 @@ You can add data in any format to the <xref:System.Windows.Forms.DataObject> whe
           <format type="text/markdown"><![CDATA[  
   
 ## Remarks  
- To retrieve text data from the data object, first use the <xref:System.Windows.Forms.DataObject.ContainsText%2A> method to determine whether the data object contains image data before retrieving it with the <xref:System.Windows.Forms.DataObject.GetText%2A> method.  
+ To retrieve text data from the data object, first use the <xref:System.Windows.Forms.DataObject.ContainsText%2A> method to determine whether the data object contains text data before retrieving it with the <xref:System.Windows.Forms.DataObject.GetText%2A> method.  
   
  ]]></format>
         </remarks>
@@ -1735,7 +1735,7 @@ You can add data in any format to the <xref:System.Windows.Forms.DataObject> whe
           <format type="text/markdown"><![CDATA[  
   
 ## Remarks  
- To retrieve text data from the data object, first use the <xref:System.Windows.Forms.DataObject.ContainsText%2A> method to determine whether the data object contains image data before retrieving it with the <xref:System.Windows.Forms.DataObject.GetText%2A> method.  
+ To retrieve text data from the data object, first use the <xref:System.Windows.Forms.DataObject.ContainsText%2A> method to determine whether the data object contains text data before retrieving it with the <xref:System.Windows.Forms.DataObject.GetText%2A> method.  
   
  ]]></format>
         </remarks>
